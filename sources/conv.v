@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module conv(
+module convfn(
 input        i_clk,
 input [71:0] i_pixel_data,
 input        i_pixel_data_valid,
